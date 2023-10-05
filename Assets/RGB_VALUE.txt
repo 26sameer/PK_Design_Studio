@@ -1,0 +1,4 @@
+Preferable to use dropper tool
+R:	241
+G:	211
+B:	156

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Cartesian;
+  src: url(./Assets/Font_File/Cartesian-4B576.ttf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Cartesian', sans-serif;
+}
